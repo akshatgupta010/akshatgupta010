@@ -65,7 +65,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/akshatgupta010/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/_akshat_010/"><img src="https://img.shields.io/badge/-@avinashsingh020-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/_akshat_010/"><img src="https://img.shields.io/badge/-@_akshat_010-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="guptaak0707@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>
 
