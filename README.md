@@ -15,7 +15,7 @@
 
 🧩 Problem Solving: Active competitive programmer .\
 ✍️ Apart from technical interests, I like reading books and playing Chess .\
-🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
+🌱 I’m currently learning many things, and I believe every day is a learning opportunity .
 
 <br>
 
@@ -62,7 +62,6 @@
 ----
 
 <br>
-
 
 ## 🤝 Connect with me
 
