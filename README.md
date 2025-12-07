@@ -33,7 +33,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatgupta010&theme=tokyo-night&hide_border=true" width="100%"/>
 
-
 </div>
 
 <br>
