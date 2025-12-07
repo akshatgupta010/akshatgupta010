@@ -33,9 +33,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatgupta010&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<img align="left" alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&&show_icons=true&theme=dark" width="46%" />
-
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgupta010&layout=compact&theme=dark" width="46%" />
 
 </div>
 
