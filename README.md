@@ -62,7 +62,8 @@
 
 ## 🤝 Connect with Me
 <div align="center">
-<a href="https://www.linkedin.com/in/akshatgupta010/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/akshat_010_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshat_010_" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/akshatgupta0016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatgupta0016" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/_akshat_010/"><img src="https://img.shields.io/badge/-@_akshat_010-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:guptaak0707@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>
