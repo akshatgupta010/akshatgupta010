@@ -32,6 +32,7 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatgupta010&theme=tokyo-night&hide_border=true" width="100%"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&show_icons=true&locale=en" alt="akshatgupta010" /></p>
 
 </div>
 
@@ -66,12 +67,3 @@
 </div>
 
 <br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatgupta010&show_icons=true&locale=en&layout=compact" alt="akshatgupta010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&show_icons=true&locale=en" alt="akshatgupta010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgupta010&" alt="akshatgupta010" /></p>
-
-
