@@ -29,13 +29,15 @@
 <br>
 
 ## 📊 GitHub Analytics
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgupta010&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgupta010&" alt="akshatgupta010" /></p>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatgupta010&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
 <br>
 
