@@ -32,7 +32,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgupta010&theme=tokyonight&hide_border=true" width="49%"/>
+  
+  <img src="https://streak-stats.demolab.com/?user=akshatgupta010&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
