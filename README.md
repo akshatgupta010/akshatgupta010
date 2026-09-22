@@ -31,13 +31,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatgupta010&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-
-  <img src="https://streak-stats.demolab.com/?user=akshatgupta010&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatgupta010&theme=tokyo-night&hide_border=true" width="100%"/>
+ <img src="https://streak-stats.demolab.com/?user=akshatgupta010&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <br>
