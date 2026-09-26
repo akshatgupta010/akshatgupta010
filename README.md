@@ -20,21 +20,11 @@
 
 ## 👨🏻‍💻 About Me
 
-💡 I am currently pursuing B.Tech in **Computer Science**. I enjoy collaborating with people on works of similar interest.  
+### **Competitive Programmer | Frontend Developer**
 
-🧩 **Problem Solving:** Active competitive programmer.  
-✍️ Apart from technical interests, I like reading books and playing chess.  
-🌱 I’m currently learning many things — every day is a learning opportunity.  
-
-<br>
-
-## 📊 GitHub Analytics
-
-<p align="center">
- <img src="https://streak-stats.demolab.com/?user=akshatgupta010&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<br>
+* **🔭 Currently building:** Full Stack Application
+* **💻 Focused on:** Full Stack Development
+* **🌱 Exploring:** System Design & Open Source
 
 ----
 
@@ -60,11 +50,8 @@
 <div align="center">
 <a href="https://twitter.com/akshat_010_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshat_010_" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/akshatgupta0016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatgupta0016" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/_akshat_010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshat_010" height="30" width="40" /></a> &nbsp;
 </div>
 
 <br>
 
 - 📫 How to reach me **guptaak0707@gmail.com**
-  
-<br>
