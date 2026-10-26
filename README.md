@@ -20,8 +20,8 @@
 
 ## 🤝 Connect with Me
 <div align="center">
-<a href="https://twitter.com/akshat_010_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshat_010_" height="30" width="40" /></a> &nbsp;
-<a href="https://linkedin.com/in/akshatgupta0016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatgupta0016" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/akshat_010_" target="blank"><img align="center" src="https://github.com/user-attachments/assets/701a2461-295f-48f2-ae8f-13d131fc5a2f" alt="akshat_010_" height="47" width="50" /></a> &nbsp;
+<a href="https://linkedin.com/in/akshatgupta0016" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8acca3a9-d303-40c4-9f56-db636f1ba377" alt="akshatgupta0016" height="45" width="50" /></a> &nbsp;
 </div>
 
 <br>
