@@ -13,7 +13,7 @@ Backend-focused developer currently learning and building scalable systems and e
 `Node.js` `Express.js` `Bun` `PostgreSQL` `MongoDB` `REST APIs`
 
 **Tools & Platforms**
-`Git` `GitHub` `Postman`
+`Git` `GitHub` `Postman` `Linux` `Vercel`
 
 **Currently Exploring**
 `System Design` `Open Source` `Generative AI`
